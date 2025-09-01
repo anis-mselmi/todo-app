@@ -36,5 +36,3 @@ This project helped me strengthen my understanding of:
 
 ---
 
-## 👨‍💻 Author
-Made with ❤️ by [Anis Mselmi](https://github.com/anis-mselmi)  
